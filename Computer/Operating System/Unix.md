@@ -1,4 +1,5 @@
 **Unix is the base of macOS and Linux, here are  the explanation**
+#computer 
 
 ---
 Unix is a powerful, multiuser, multitasking operating system originally developed in the 1960s at AT&T's Bell Labs. It has since become the foundation for many modern operating systems, including [[Linux]] and [[macOS]]. Known for its stability, security, and flexibility, Unix is widely used in servers, workstations, and embedded systems.

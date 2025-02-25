@@ -1,4 +1,5 @@
 **Notebook about Windows, this notebook are the derivative of [[Operating System]] topic**
+#computer 
 
 ---
 Windows is a powerful and versatile operating system developed by Microsoft. It has evolved over decades to become one of the most widely used OS platforms, offering seamless integration, user-friendly interfaces, and cutting-edge features that enhance productivity, gaming, enterprise management, and development.

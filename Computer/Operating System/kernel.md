@@ -1,4 +1,5 @@
 **The kernel is the core component of an operating system, here are the explanation**
+#computer 
 
 ---
 The kernel is the core component of an operating system, responsible for managing hardware resources, providing essential system services, and ensuring smooth communication between software and hardware. It operates with the highest privileges and serves as the foundation of an OS.

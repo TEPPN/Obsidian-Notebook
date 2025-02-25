@@ -1,4 +1,5 @@
 **This is a notebook about Monolithic Kernel, you can read more at [[kernel]]**
+#computer 
 
 ---
 A Monolithic Kernel is a type of operating system kernel architecture where all core system services run in a single address space in kernel mode. This design integrates the system’s essential functions, such as process management, memory management, file systems, and device drivers, directly into the kernel, enabling efficient communication and high performance.

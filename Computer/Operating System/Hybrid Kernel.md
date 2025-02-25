@@ -1,4 +1,5 @@
 **Hybrid is the combination between monolithic kernel and microkernel, here are the explanation**
+#computer 
 
 ---
 A Hybrid Kernel is a type of operating system kernel that combines elements of both monolithic and microkernel architectures. It aims to balance the performance of monolithic kernels with the modularity and stability of microkernels.

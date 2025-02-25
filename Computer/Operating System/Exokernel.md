@@ -1,4 +1,5 @@
 **Explanation about exokernel**
+#computer
 
 ---
 An Exokernel is a minimalist operating system kernel designed to provide applications with direct access to hardware while maintaining security and resource management. It differs from traditional [[Monolithic Kernel]] and [[Microkernel]] by offering minimal abstraction, allowing user-level software to manage resources more efficiently.

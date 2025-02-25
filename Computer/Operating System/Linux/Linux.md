@@ -2,6 +2,7 @@
 
 ---
 **Linux is a [[Computer]] [[Operating System]]**
+#computer
 
 ---
 # What is Linux?

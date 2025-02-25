@@ -1,4 +1,5 @@
 Explanation about GUI, might to look about [[User Interface]]
+#computer 
 
 ---
 A Graphical User Interface (GUI) is a visual-based interactive system that allows users to interact with electronic devices using graphical elements such as windows, icons, buttons, and menus. Unlike the [[Command-Line Interface]] (CLI), which requires textual commands, GUI provides an intuitive and user-friendly approach to computing.

@@ -1,4 +1,5 @@
 **[[Linux]] [[Cheat sheet]] for daily use**
+#computer
 
 ---
 # File & Directory Management

@@ -1,4 +1,5 @@
 **Opposite from Monolithic kernel, here is the information**
+#computer 
 
 ---
 A Microkernel is a type of operating system [[kernel]] that minimizes the functions running in kernel space, delegating most services to user space. This design enhances modularity, security, and stability by reducing the amount of code executing with high privileges.

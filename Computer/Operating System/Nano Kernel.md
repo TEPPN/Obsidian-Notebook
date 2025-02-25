@@ -1,4 +1,5 @@
 **Explanation about nano kernel**
+#computer 
 
 ---
 A Nano Kernel is an extremely lightweight operating system kernel that provides the bare minimum functionalities required for hardware management and resource allocation. It is even smaller than a microkernel, focusing on minimalism and efficiency.

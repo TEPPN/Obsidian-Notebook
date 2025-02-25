@@ -1,4 +1,5 @@
 Explanation about CLI, might to look about [[User Interface]]
+#computer 
 
 ---
 The Command Line Interface (CLI) is a text-based user interface used to interact with computers and execute commands. Unlike Graphical User Interfaces (GUI), which rely on visual elements, CLI enables users to perform operations through typed commands.

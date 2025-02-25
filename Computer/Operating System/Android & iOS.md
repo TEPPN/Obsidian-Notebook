@@ -1,4 +1,5 @@
 **Android and iOS are mostly use for mobile phone, here are the explanation**
+#computer
 
 ---
 Android and iOS are the two dominant mobile operating systems that power the majority of smartphones and tablets worldwide. Developed by Google and Apple, respectively, these platforms offer distinct ecosystems, user experiences, and development environments. Both have revolutionized mobile computing, shaping how people interact with digital services.

@@ -1,4 +1,5 @@
 **Explanation about MacOS**
+#computer 
 
 ---
 macOS is a sophisticated and powerful operating system developed by Apple Inc. It is designed exclusively for Mac computers, offering a seamless and optimized experience that prioritizes performance, security, and usability. With its [[Unix]]-based foundation and sleek graphical interface, macOS is known for its stability, efficiency, and seamless integration with Apple's ecosystem.
