@@ -1,15 +1,15 @@
 #programming 
-**Arrays in PHP are used to store multiple values in a single variable. PHP supports different types of arrays that allow developers to organize and manipulate data efficiently.**
+**Arrays in [[PHP]] are used to store multiple values in a single variable. PHP supports different types of arrays that allow developers to organize and manipulate data efficiently.**
 
 ---
 
-# **Types of Arrays in PHP**
+# Types of Arrays in PHP
 
 1. **Indexed Arrays**
 2. **Associative Arrays**
 3. **Multidimensional Arrays**
 
-# **Chapter 2: Indexed Arrays**
+# Indexed Arrays
 
 ## **Definition**
 
@@ -39,7 +39,7 @@ foreach ($fruits as $fruit) {
 }
 ```
 
-# **Chapter 3: Associative Arrays**
+# Associative Arrays
 
 ## **Definition**
 
@@ -48,7 +48,10 @@ Associative arrays use named keys instead of numeric indexes.
 ## **Creating an Associative Array**
 
 ```php
-$person = array("name" => "John", "age" => 30, "city" => "New York");
+$person = array("name" => "John", 
+				"age" => 30,
+				"city" => "New York"
+				);
 ```
 
 ## **Accessing Elements**
@@ -65,7 +68,7 @@ foreach ($person as $key => $value) {
 }
 ```
 
-# **Chapter 4: Multidimensional Arrays**
+# Multidimensional Arrays
 
 ## **Definition**
 
@@ -95,7 +98,7 @@ foreach ($students as $student) {
 }
 ```
 
-# **Chapter 5: Array Functions in PHP**
+# Array Functions in PHP
 
 PHP provides built-in functions to manipulate arrays efficiently.
 
@@ -121,7 +124,3 @@ if (in_array(3, $numbers)) {
 // Merge two arrays
 $merged = array_merge($numbers, [6, 7, 8]);
 ```
-
-# **Chapter 6: Conclusion**
-
-Understanding arrays is crucial in PHP development. They allow efficient data handling and are widely used in real-world applications. Practice using different types of arrays and array functions to enhance your PHP skills.
